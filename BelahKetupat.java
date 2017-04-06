@@ -10,14 +10,14 @@ package fibo;
  * @author Praktikan
  */
 public class BelahKetupat {
-
+//edit belah ketupat loh//
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
         String NIM,blog;
-        blog = "Thomi Jasir";
-        NIM = "6706151124";
+        blog = "Gian Aria Wibowo";
+        NIM = "6706152190";
         System.out.println(blog);
         System.out.println(NIM);
         System.out.println("");
